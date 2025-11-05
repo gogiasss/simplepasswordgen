@@ -29,7 +29,7 @@ We may update this Privacy Policy in the future. Any changes will be posted on t
 
 **5. Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us at: [Your Support Email Address]
+If you have any questions about this Privacy Policy, please contact us at: rvaliev.dev@gmail.com
 
 ---
 
