@@ -101,5 +101,3 @@ If you have any questions about this Privacy Policy, please contact us at: [Your
 
 如果您对本隐私政策有任何疑问，请通过以下方式联系我们：[您的支持电子邮箱地址]
 
-
-Нужна помощь с чем-нибудь еще для запуска?
