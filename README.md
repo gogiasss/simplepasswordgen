@@ -8,7 +8,7 @@ This Privacy Policy describes how Ruslan Valiev ("we," "us," or "our") handles i
 
 **1. No Data Collection**
 
-We believe in privacy. Simple Passwords Generator is designed to be a completely offline, secure tool.
+We believe in privacy. Simple Password Generator is designed to be a completely offline, secure tool.
 
 * **We do not collect any data:** We do not collect, store, share, or transmit any personal information, sensitive information, or any other data from you or your device.
 * **No User Accounts:** The App does not require you to create an account.
@@ -43,7 +43,7 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 **1. 不收集任何数据**
 
-我们坚信隐私的重要性。Simple Passwords Generator 是一款完全离线的安全工具。
+我们坚信隐私的重要性。Simple Password Generator 是一款完全离线的安全工具。
 
 * **我们不收集任何数据：** 我们不收集、存储、共享或传输来自您或您设备的任何个人信息、敏感信息或任何其他数据。
 * **无用户帐户：** 本应用不需要您创建帐户。
@@ -78,7 +78,7 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 **1. Отсутствие сбора данных**
 
-Мы верим в конфиденциальность. Приложение Simple Passwords Generator разработано как полностью автономный и безопасный инструмент.
+Мы верим в конфиденциальность. Приложение Simple Password Generator разработано как полностью автономный и безопасный инструмент.
 
 * **Мы не собираем никаких данных:** Мы не собираем, не храним, не передаем и не делимся какой-либо личной, конфиденциальной или любой другой информацией с вашего устройства.
 * **Нет учетных записей:** Приложение не требует создания учетной записи.
