@@ -35,7 +35,7 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 ### 🇨🇳 中文 (简体)
 
-## Simple Password Generator 隐私政策
+## Simple Password Generator [密码生成器] 隐私政策
 
 **生效日期：** 2025年10月01日发布
 
