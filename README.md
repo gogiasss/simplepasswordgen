@@ -39,11 +39,11 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 **生效日期：** 2025年10月01日发布
 
-本隐私政策描述了 Ruslan Valiev（“我们”）如何在 Simple Passwords Generator 移动应用程序（“本应用”）中处理信息。
+本隐私政策描述了 Ruslan Valiev（“我们”）如何在 Simple Password Generator 移动应用程序（“本应用”）中处理信息。
 
 **1. 不收集任何数据**
 
-我们坚信隐私的重要性。Simple Password Generator 是一款完全离线的安全工具。
+我们坚信隐私的重要性。Simple Password Generator [密码生成器] 是一款完全离线的安全工具。
 
 * **我们不收集任何数据：** 我们不收集、存储、共享或传输来自您或您设备的任何个人信息、敏感信息或任何其他数据。
 * **无用户帐户：** 本应用不需要您创建帐户。
