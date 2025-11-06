@@ -37,7 +37,7 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 ## Simple Passwords Generator 隐私政策
 
-**生效日期：** [您的申请公布日期为 2025 年 10 月 1 日。]
+**生效日期：** 2025年10月01日发布
 
 本隐私政策描述了 Ruslan Valiev（“我们”）如何在 Simple Passwords Generator 移动应用程序（“本应用”）中处理信息。
 
