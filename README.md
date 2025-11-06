@@ -72,7 +72,7 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 ## Политика конфиденциальности для Simple Password Generator
 
-**Дата вступления в силу:** Дата публикации, 01 октбря 2025 г.
+**Дата вступления в силу:**  01 октбря 2025 г.
 
 Настоящая Политика конфиденциальности описывает, как Ruslan Valiev («мы», «нас» или «наш») обрабатывает информацию в мобильном приложении Simple Passwords Generator («Приложение»).
 
