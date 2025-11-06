@@ -1,6 +1,6 @@
 ### 🇬🇧 English
 
-## Privacy Policy for Simple Passwords Generator
+## Privacy Policy for Simple Password Generator
 
 **Effective Date:** 01 october, 2025
 
@@ -35,7 +35,7 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 ### 🇨🇳 中文 (简体)
 
-## Simple Passwords Generator 隐私政策
+## Simple Password Generator 隐私政策
 
 **生效日期：** 2025年10月01日发布
 
@@ -70,7 +70,7 @@ If you have any questions about this Privacy Policy, please contact us at: rvali
 
 ### 🇷🇺 Русский
 
-## Политика конфиденциальности для Simple Passwords Generator
+## Политика конфиденциальности для Simple Password Generator
 
 **Дата вступления в силу:** Дата публикации, 01 октбря 2025 г.
 
